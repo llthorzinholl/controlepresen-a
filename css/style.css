@@ -12,6 +12,8 @@ label {
 }
 
 .titulo-pagina {
+    margin-top: 4rem;
+    margin-left: 3rem;
     font-weight: 900;
     color: white;
     font-size: 40px;
